@@ -57,3 +57,14 @@ D:\HK1_N4\Ma_Nguon_Mo\LKMT\LKMT\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
 D:\HK1_N4\Ma_Nguon_Mo\LKMT\LKMT\DAO\obj\Debug\DAO.csproj.CopyComplete
 D:\HK1_N4\Ma_Nguon_Mo\LKMT\LKMT\DAO\obj\Debug\DAO.dll
 D:\HK1_N4\Ma_Nguon_Mo\LKMT\LKMT\DAO\obj\Debug\DAO.pdb
+D:\HK1_N4\THMNM\THMNM_LKMT_Nhom6\LKMT\DAO\bin\Debug\DAO.dll.config
+D:\HK1_N4\THMNM\THMNM_LKMT_Nhom6\LKMT\DAO\bin\Debug\DAO.dll
+D:\HK1_N4\THMNM\THMNM_LKMT_Nhom6\LKMT\DAO\bin\Debug\DAO.pdb
+D:\HK1_N4\THMNM\THMNM_LKMT_Nhom6\LKMT\DAO\bin\Debug\EntityFramework.dll
+D:\HK1_N4\THMNM\THMNM_LKMT_Nhom6\LKMT\DAO\bin\Debug\EntityFramework.SqlServer.dll
+D:\HK1_N4\THMNM\THMNM_LKMT_Nhom6\LKMT\DAO\bin\Debug\EntityFramework.xml
+D:\HK1_N4\THMNM\THMNM_LKMT_Nhom6\LKMT\DAO\bin\Debug\EntityFramework.SqlServer.xml
+D:\HK1_N4\THMNM\THMNM_LKMT_Nhom6\LKMT\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+D:\HK1_N4\THMNM\THMNM_LKMT_Nhom6\LKMT\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\HK1_N4\THMNM\THMNM_LKMT_Nhom6\LKMT\DAO\obj\Debug\DAO.dll
+D:\HK1_N4\THMNM\THMNM_LKMT_Nhom6\LKMT\DAO\obj\Debug\DAO.pdb

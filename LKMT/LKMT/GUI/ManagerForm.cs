@@ -16,7 +16,7 @@ namespace LKMT.GUI
         private Point starPoint = new Point(0, 0);
         private bool isCollapsed = true;
         private bool isCollapsed2 = true;
-
+        fKhachHang kh = new fKhachHang();
         public ManagerForm()
         {
             InitializeComponent();
@@ -156,6 +156,7 @@ namespace LKMT.GUI
 
         private void button2_Click_1(object sender, EventArgs e)
         {
+            showControl(kh);
         }
     }
 }

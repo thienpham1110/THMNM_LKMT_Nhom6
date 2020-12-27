@@ -83,6 +83,7 @@
     <Compile Include="khachhang.cs">
       <DependentUpon>DBContext.tt</DependentUpon>
     </Compile>
+    <Compile Include="KhachHangDAO.cs" />
     <Compile Include="loaisanpham.cs">
       <DependentUpon>DBContext.tt</DependentUpon>
     </Compile>
