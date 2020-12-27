@@ -61,6 +61,15 @@ namespace DAO
                 return a;
             return null;
         }
-       
+        public khachhang findKhachHangbySDT(string sdt)
+        {
+            khachhang a = null;
+            foreach (var kh in GetKhachhangs().Where(p => p.sodienthoai == sdt))
+            {
+                a = kh;
+                break;
+            }
+            return a;
+        }
     }
 }

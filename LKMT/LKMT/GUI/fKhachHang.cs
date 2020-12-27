@@ -112,7 +112,11 @@ namespace LKMT.GUI
 
         private void btnTimKiem_Click(object sender, EventArgs e)
         {
-          
+            if (txtSearchBox.TextLength == 0)
+                MessageBox.Show("Vui lòng nhập số điện thoại!!", "Thông Báo", MessageBoxButtons.OK);
+            if (KhachHangBUS.Instance.timKhachHangbySDT(dgvKhachHang, txtSearchBox.Text) == false)
+                MessageBox.Show("Không tìm thấy khách hàng có số điện thoại " + txtSearchBox.Text, "Thông Báo", MessageBoxButtons.OK);
+
         }
     }
 }

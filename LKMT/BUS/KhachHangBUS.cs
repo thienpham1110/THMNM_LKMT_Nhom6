@@ -50,7 +50,19 @@ namespace BUS
             a.ngaytao = DateTime.Now;
             return DAO.KhachHangDAO.Instance.themKhachHang(a);
         }
-       
+        public bool timKhachHangbySDT(DataGridView dgv, string sdt)
+        {
+            DAO.khachhang a = DAO.KhachHangDAO.Instance.findKhachHangbySDT(sdt);
+            if (a != null)
+            {
+                List<DAO.khachhang> dsKH = new List<DAO.khachhang>();
+                dsKH.Add(a);
+                //dgv.DataSource = new { id = a.id_khachhang, ten = a.ten, email = a.email, matkhau = a.matkhau, sodienthoai = a.sodienthoai, diachi = a.diachi, ngaytao = a.ngaytao, ngaycapnhat = a.ngaycapnhat };
+                showSearchResult(dgv, dsKH);
+                return true;
+            }
+            return false;
+        }
         public void showSearchResult(DataGridView data, List<DAO.khachhang> dsKH)
         {
             var result = from a in dsKH select new { id = a.id_khachhang, ten = a.ten, email = a.email, matkhau = a.matkhau, sodienthoai = a.sodienthoai, diachi = a.diachi, ngaytao = a.ngaytao, ngaycapnhat = a.ngaycapnhat };
