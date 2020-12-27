@@ -62,3 +62,16 @@ D:\HK1_N4\Ma_Nguon_Mo\LKMT\LKMT\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
 D:\HK1_N4\Ma_Nguon_Mo\LKMT\LKMT\BUS\obj\Debug\BUS.csproj.CopyComplete
 D:\HK1_N4\Ma_Nguon_Mo\LKMT\LKMT\BUS\obj\Debug\BUS.dll
 D:\HK1_N4\Ma_Nguon_Mo\LKMT\LKMT\BUS\obj\Debug\BUS.pdb
+E:\OSS\THMNM_LKMT_Nhom6\LKMT\BUS\bin\Debug\BUS.dll.config
+E:\OSS\THMNM_LKMT_Nhom6\LKMT\BUS\bin\Debug\BUS.dll
+E:\OSS\THMNM_LKMT_Nhom6\LKMT\BUS\bin\Debug\BUS.pdb
+E:\OSS\THMNM_LKMT_Nhom6\LKMT\BUS\bin\Debug\DAO.dll
+E:\OSS\THMNM_LKMT_Nhom6\LKMT\BUS\bin\Debug\EntityFramework.dll
+E:\OSS\THMNM_LKMT_Nhom6\LKMT\BUS\bin\Debug\DAO.pdb
+E:\OSS\THMNM_LKMT_Nhom6\LKMT\BUS\bin\Debug\DAO.dll.config
+E:\OSS\THMNM_LKMT_Nhom6\LKMT\BUS\bin\Debug\EntityFramework.xml
+E:\OSS\THMNM_LKMT_Nhom6\LKMT\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+E:\OSS\THMNM_LKMT_Nhom6\LKMT\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\OSS\THMNM_LKMT_Nhom6\LKMT\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\OSS\THMNM_LKMT_Nhom6\LKMT\BUS\obj\Debug\BUS.dll
+E:\OSS\THMNM_LKMT_Nhom6\LKMT\BUS\obj\Debug\BUS.pdb
