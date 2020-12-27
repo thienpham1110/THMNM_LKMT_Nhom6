@@ -92,7 +92,8 @@ namespace LKMT.GUI
         }
         private void btnLoaiSP_Click(object sender, EventArgs e)
         {
-        
+            fLoaiSP flsp = new fLoaiSP();
+            showControl(flsp);
         }
         private void showControl(Control ctrl)
         {
