@@ -166,3 +166,4 @@ E:\OSS\THMNM_LKMT_Nhom6\LKMT\LKMT\obj\Debug\LKMT.csproj.CopyComplete
 E:\OSS\THMNM_LKMT_Nhom6\LKMT\LKMT\obj\Debug\LKMT.exe
 E:\OSS\THMNM_LKMT_Nhom6\LKMT\LKMT\obj\Debug\LKMT.pdb
 E:\OSS\THMNM_LKMT_Nhom6\LKMT\LKMT\obj\Debug\LKMT.GUI.fLoaiSP.resources
+E:\OSS\THMNM_LKMT_Nhom6\LKMT\LKMT\obj\Debug\LKMT.GUI.fSanPham.resources

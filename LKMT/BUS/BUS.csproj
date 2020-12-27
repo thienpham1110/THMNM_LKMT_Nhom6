@@ -46,6 +46,7 @@
     <Compile Include="DangNhapBUS.cs" />
     <Compile Include="LoaiSanPhamBUS.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SanPhamBUS.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.Config" />

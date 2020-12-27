@@ -63,6 +63,12 @@
     <Compile Include="GUI\fLoaiSP.designer.cs">
       <DependentUpon>fLoaiSP.cs</DependentUpon>
     </Compile>
+    <Compile Include="GUI\fSanPham.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\fSanPham.designer.cs">
+      <DependentUpon>fSanPham.cs</DependentUpon>
+    </Compile>
     <Compile Include="GUI\LoginForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -79,6 +85,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="GUI\fLoaiSP.resx">
       <DependentUpon>fLoaiSP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\fSanPham.resx">
+      <DependentUpon>fSanPham.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="GUI\LoginForm.resx">
       <DependentUpon>LoginForm.cs</DependentUpon>
