@@ -90,6 +90,7 @@
     <Compile Include="nhomsanpham.cs">
       <DependentUpon>DBContext.tt</DependentUpon>
     </Compile>
+    <Compile Include="NhomSanPhamDAO.cs" />
     <Compile Include="phieugiaohang.cs">
       <DependentUpon>DBContext.tt</DependentUpon>
     </Compile>

@@ -17,6 +17,7 @@ namespace LKMT.GUI
         private bool isCollapsed = true;
         private bool isCollapsed2 = true;
         fKhachHang kh = new fKhachHang();
+        fNhomSP nsp = new fNhomSP();
         public ManagerForm()
         {
             InitializeComponent();
@@ -88,7 +89,7 @@ namespace LKMT.GUI
 
         private void btnNhomSP_Click(object sender, EventArgs e)
         {
-
+            showControl(nsp);
         }
         private void btnLoaiSP_Click(object sender, EventArgs e)
         {

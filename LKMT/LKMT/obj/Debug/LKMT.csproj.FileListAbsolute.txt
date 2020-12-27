@@ -165,3 +165,4 @@ D:\HK1_N4\THMNM\THMNM_LKMT_Nhom6\LKMT\LKMT\obj\Debug\LKMT.csproj.GenerateResourc
 D:\HK1_N4\THMNM\THMNM_LKMT_Nhom6\LKMT\LKMT\obj\Debug\LKMT.csproj.CopyComplete
 D:\HK1_N4\THMNM\THMNM_LKMT_Nhom6\LKMT\LKMT\obj\Debug\LKMT.exe
 D:\HK1_N4\THMNM\THMNM_LKMT_Nhom6\LKMT\LKMT\obj\Debug\LKMT.pdb
+D:\HK1_N4\THMNM\THMNM_LKMT_Nhom6\LKMT\LKMT\obj\Debug\LKMT.GUI.fNhomSP.resources

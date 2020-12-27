@@ -63,6 +63,12 @@
     <Compile Include="GUI\fKhachHang.designer.cs">
       <DependentUpon>fKhachHang.cs</DependentUpon>
     </Compile>
+    <Compile Include="GUI\fNhomSP.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\fNhomSP.designer.cs">
+      <DependentUpon>fNhomSP.cs</DependentUpon>
+    </Compile>
     <Compile Include="GUI\LoginForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -79,6 +85,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="GUI\fKhachHang.resx">
       <DependentUpon>fKhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\fNhomSP.resx">
+      <DependentUpon>fNhomSP.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="GUI\LoginForm.resx">
       <DependentUpon>LoginForm.cs</DependentUpon>
