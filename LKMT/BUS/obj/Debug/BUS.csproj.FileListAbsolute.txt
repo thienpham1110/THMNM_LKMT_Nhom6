@@ -99,3 +99,15 @@ F:\gitth\THMNM_LKMT_Nhom6\LKMT\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
 F:\gitth\THMNM_LKMT_Nhom6\LKMT\BUS\obj\Debug\BUS.csproj.CopyComplete
 F:\gitth\THMNM_LKMT_Nhom6\LKMT\BUS\obj\Debug\BUS.dll
 F:\gitth\THMNM_LKMT_Nhom6\LKMT\BUS\obj\Debug\BUS.pdb
+F:\gitdemo\THMNM_LKMT_Nhom6\LKMT\BUS\bin\Debug\BUS.dll.config
+F:\gitdemo\THMNM_LKMT_Nhom6\LKMT\BUS\bin\Debug\BUS.dll
+F:\gitdemo\THMNM_LKMT_Nhom6\LKMT\BUS\bin\Debug\BUS.pdb
+F:\gitdemo\THMNM_LKMT_Nhom6\LKMT\BUS\bin\Debug\DAO.dll
+F:\gitdemo\THMNM_LKMT_Nhom6\LKMT\BUS\bin\Debug\EntityFramework.dll
+F:\gitdemo\THMNM_LKMT_Nhom6\LKMT\BUS\bin\Debug\DAO.pdb
+F:\gitdemo\THMNM_LKMT_Nhom6\LKMT\BUS\bin\Debug\DAO.dll.config
+F:\gitdemo\THMNM_LKMT_Nhom6\LKMT\BUS\bin\Debug\EntityFramework.xml
+F:\gitdemo\THMNM_LKMT_Nhom6\LKMT\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+F:\gitdemo\THMNM_LKMT_Nhom6\LKMT\BUS\obj\Debug\BUS.csproj.CopyComplete
+F:\gitdemo\THMNM_LKMT_Nhom6\LKMT\BUS\obj\Debug\BUS.dll
+F:\gitdemo\THMNM_LKMT_Nhom6\LKMT\BUS\obj\Debug\BUS.pdb

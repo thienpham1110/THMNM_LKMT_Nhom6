@@ -91,3 +91,14 @@ F:\gitth\THMNM_LKMT_Nhom6\LKMT\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
 F:\gitth\THMNM_LKMT_Nhom6\LKMT\DAO\obj\Debug\DAO.csproj.CopyComplete
 F:\gitth\THMNM_LKMT_Nhom6\LKMT\DAO\obj\Debug\DAO.dll
 F:\gitth\THMNM_LKMT_Nhom6\LKMT\DAO\obj\Debug\DAO.pdb
+F:\gitdemo\THMNM_LKMT_Nhom6\LKMT\DAO\bin\Debug\DAO.dll.config
+F:\gitdemo\THMNM_LKMT_Nhom6\LKMT\DAO\bin\Debug\DAO.dll
+F:\gitdemo\THMNM_LKMT_Nhom6\LKMT\DAO\bin\Debug\DAO.pdb
+F:\gitdemo\THMNM_LKMT_Nhom6\LKMT\DAO\bin\Debug\EntityFramework.dll
+F:\gitdemo\THMNM_LKMT_Nhom6\LKMT\DAO\bin\Debug\EntityFramework.SqlServer.dll
+F:\gitdemo\THMNM_LKMT_Nhom6\LKMT\DAO\bin\Debug\EntityFramework.xml
+F:\gitdemo\THMNM_LKMT_Nhom6\LKMT\DAO\bin\Debug\EntityFramework.SqlServer.xml
+F:\gitdemo\THMNM_LKMT_Nhom6\LKMT\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+F:\gitdemo\THMNM_LKMT_Nhom6\LKMT\DAO\obj\Debug\DAO.csproj.CopyComplete
+F:\gitdemo\THMNM_LKMT_Nhom6\LKMT\DAO\obj\Debug\DAO.dll
+F:\gitdemo\THMNM_LKMT_Nhom6\LKMT\DAO\obj\Debug\DAO.pdb

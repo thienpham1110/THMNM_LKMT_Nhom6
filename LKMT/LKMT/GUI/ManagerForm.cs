@@ -18,6 +18,7 @@ namespace LKMT.GUI
         private bool isCollapsed2 = true;
         fKhachHang kh = new fKhachHang();
         fNhomSP nsp = new fNhomSP();
+        fThuongHieu thi = new fThuongHieu();
         public ManagerForm()
         {
             InitializeComponent();
@@ -107,7 +108,7 @@ namespace LKMT.GUI
 
         private void btnThuongHieu_Click(object sender, EventArgs e)
         {
-
+            showControl(thi);
         }
 
         private void button4_Click(object sender, EventArgs e)
