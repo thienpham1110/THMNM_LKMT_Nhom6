@@ -63,6 +63,12 @@
     <Compile Include="GUI\fKhachHang.designer.cs">
       <DependentUpon>fKhachHang.cs</DependentUpon>
     </Compile>
+    <Compile Include="GUI\fNhapKho.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\fNhapKho.Designer.cs">
+      <DependentUpon>fNhapKho.cs</DependentUpon>
+    </Compile>
     <Compile Include="GUI\fNhomSP.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -80,6 +86,12 @@
     </Compile>
     <Compile Include="GUI\fSanPham.designer.cs">
       <DependentUpon>fSanPham.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\fThanhToan.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="GUI\fThanhToan.Designer.cs">
+      <DependentUpon>fThanhToan.cs</DependentUpon>
     </Compile>
     <Compile Include="GUI\fThuongHieu.cs">
       <SubType>UserControl</SubType>
@@ -104,6 +116,9 @@
     <EmbeddedResource Include="GUI\fKhachHang.resx">
       <DependentUpon>fKhachHang.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="GUI\fNhapKho.resx">
+      <DependentUpon>fNhapKho.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="GUI\fNhomSP.resx">
       <DependentUpon>fNhomSP.cs</DependentUpon>
     </EmbeddedResource>
@@ -112,6 +127,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="GUI\fSanPham.resx">
       <DependentUpon>fSanPham.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\fThanhToan.resx">
+      <DependentUpon>fThanhToan.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="GUI\fThuongHieu.resx">
       <DependentUpon>fThuongHieu.cs</DependentUpon>

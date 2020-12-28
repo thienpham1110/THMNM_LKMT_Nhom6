@@ -19,6 +19,9 @@ namespace LKMT.GUI
         fKhachHang kh = new fKhachHang();
         fNhomSP nsp = new fNhomSP();
         fThuongHieu thi = new fThuongHieu();
+        fNhapKho nhap = new fNhapKho();
+        fThanhToan tt = new fThanhToan();
+        
         public ManagerForm()
         {
             InitializeComponent();
@@ -146,7 +149,7 @@ namespace LKMT.GUI
 
         private void btnNhapKho_Click(object sender, EventArgs e)
         {
-            
+            showControl(nhap);
         }
 
         private void btnXuatKho_Click(object sender, EventArgs e)
@@ -156,7 +159,7 @@ namespace LKMT.GUI
 
         private void btnThanhToan_Click(object sender, EventArgs e)
         {
-        
+            showControl(tt);
         }
 
         private void button2_Click_1(object sender, EventArgs e)

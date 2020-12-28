@@ -241,3 +241,5 @@ F:\gitdemo\THMNM_LKMT_Nhom6\LKMT\LKMT\obj\Debug\LKMT.csproj.CopyComplete
 F:\gitdemo\THMNM_LKMT_Nhom6\LKMT\LKMT\obj\Debug\LKMT.exe
 F:\gitdemo\THMNM_LKMT_Nhom6\LKMT\LKMT\obj\Debug\LKMT.pdb
 F:\gitdemo\THMNM_LKMT_Nhom6\LKMT\LKMT\obj\Debug\LKMT.GUI.fThuongHieu.resources
+F:\gitdemo\THMNM_LKMT_Nhom6\LKMT\LKMT\obj\Debug\LKMT.GUI.fNhapKho.resources
+F:\gitdemo\THMNM_LKMT_Nhom6\LKMT\LKMT\obj\Debug\LKMT.GUI.fThanhToan.resources

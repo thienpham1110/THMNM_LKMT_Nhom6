@@ -88,6 +88,7 @@
       <DependentUpon>DBContext.tt</DependentUpon>
     </Compile>
     <Compile Include="LoaiSanPhamDAO.cs" />
+    <Compile Include="NhapKhoDAO.cs" />
     <Compile Include="nhomsanpham.cs">
       <DependentUpon>DBContext.tt</DependentUpon>
     </Compile>
@@ -112,6 +113,7 @@
     <Compile Include="sysdiagram.cs">
       <DependentUpon>DBContext.tt</DependentUpon>
     </Compile>
+    <Compile Include="ThanhToanDAO.cs" />
     <Compile Include="thuonghieu.cs">
       <DependentUpon>DBContext.tt</DependentUpon>
     </Compile>

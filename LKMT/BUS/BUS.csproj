@@ -45,10 +45,12 @@
   <ItemGroup>
     <Compile Include="DangNhapBUS.cs" />
     <Compile Include="KhachHangBUS.cs" />
+    <Compile Include="NhapKhoBUS.cs" />
     <Compile Include="NhomSanPhamBUS.cs" />
     <Compile Include="LoaiSanPhamBUS.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SanPhamBUS.cs" />
+    <Compile Include="ThanhToanBUS.cs" />
     <Compile Include="ThuongHieuBUS.cs" />
   </ItemGroup>
   <ItemGroup>
