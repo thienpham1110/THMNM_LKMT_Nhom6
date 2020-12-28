@@ -85,6 +85,8 @@ namespace LKMT.GUI
 
         private void btnSanPham_Click(object sender, EventArgs e)
         {
+            fSanPham fsp = new fSanPham();
+            showControl(fsp);
         }
 
         private void btnNhomSP_Click(object sender, EventArgs e)
@@ -93,7 +95,8 @@ namespace LKMT.GUI
         }
         private void btnLoaiSP_Click(object sender, EventArgs e)
         {
-        
+            fLoaiSP flsp = new fLoaiSP();
+            showControl(flsp);
         }
         private void showControl(Control ctrl)
         {
